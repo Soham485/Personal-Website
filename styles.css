@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'LT Avocado';
+    src:url('https://cloud-mjfvixv18-hack-club-bot.vercel.app/0ltavocado-regular.ttf');
+}
+
+h1 {font-size: 3vw;}
+h2 {font-size:2vw;}
+p {font-size:1.5vw;}
+* {background-color: #1F2232;color:#F9F5FF;font-family: "LT Avocado";    text-align: center;
+}
+
+
+img#icon {margin:auto;width:15vw;padding:0%;}
