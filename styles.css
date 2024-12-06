@@ -11,6 +11,9 @@
 h1 {font-size: 3vw;font-family: 'LT Avocado',sans-serif;}
 h2 {font-size:2vw;font-family: 'LT Avocado',sans-serif;}
 p {font-size:1.5vw;text-shadow: 1.5px 1.5px 0 #6369D1;}
+p:hover {
+    text-shadow:1px 1px 0 #6369D1;
+}
 * {background-color: #1F2232;color:#EFF1F3;font-family: "Phantom Sans",sans-serif ; text-align: center;
 }
 
