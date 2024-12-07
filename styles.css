@@ -8,8 +8,12 @@
     src: url('https://cloud-f2j4cdqpr-hack-club-bot.vercel.app/0trial_phantomsans0.8-medium-bf65a9d4ced06ad.ttf');
 }
 
-h1 {font-size: 3vw;font-family: 'LT Avocado',sans-serif;}
-h2 {font-size:2vw;font-family: 'LT Avocado',sans-serif;}
+h1 {font-size: 3.5vw;font-family: 'LT Avocado',sans-serif;text-shadow:  2px 1.5px 0 #ED6B86;}
+h2 {font-size:2.5vw;font-family: 'LT Avocado',sans-serif;text-shadow:  2px 1.5px 0 #ED6B86;}
+h3 {font-size:1.75vw;font-family: 'LT Avocado',sans-serif;text-shadow:  2px 1.5px 0 #ED6B86;}
+
+h1:hover,h2:hover,h3:hover {text-shadow: 1px 0.5px 0.5px #ED6B86;;}
+
 p {font-size:1.5vw;text-shadow: 1.5px 1.5px 0 #6369D1;}
 p:hover {
     text-shadow:1px 1px 0.5px #6369D1;
@@ -22,7 +26,7 @@ img#icon {margin:auto;width:15vw;padding:0%;border:0%;}
 
 
 #projects-container {display:flex;  flex-direction: row;justify-content: center;}
-.project {padding:2vw;margin:1vw;  border: 0.25vw solid #6369D1;border-radius: 2vw;box-shadow: 0.5vw 0.5vw 0 #ED6B86;;
+.project {padding:2vw;margin:1vw;  border: 0.25vw solid #6369D1;border-radius: 2vw;box-shadow: 0.5vw 0.5vw 0 #ED6B86;
 }
 .project:hover {box-shadow: 0.33vw 0.33vw 0.5px #ED6B86;
 }
