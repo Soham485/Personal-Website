@@ -14,7 +14,7 @@ h3 {font-size:1.75vw;font-family: 'LT Avocado',sans-serif;text-shadow:  2px 1.5p
 
 h1:hover,h2:hover,h3:hover {text-shadow: 1px 0.5px 0.5px #ED6B86;;}
 
-p {font-size:1.5vw;text-shadow: 1.5px 1.5px 0 #6369D1;}
+p {font-size:1.5vw;}
 p:hover {
     text-shadow:1px 1px 0.5px #6369D1;
 }
