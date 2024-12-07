@@ -32,6 +32,7 @@ width:30vw;}
 
 #projectone,h3#projectone,p#projectone {background-color: #0D1321;}
 #projecttwo,h3#projecttwo,p#projectone {background-color: #272727;}
+a {color:#EFF1F3;}
 
 
 .project:hover {box-shadow: 0.33vw 0.33vw 0.5px #ED6B86;
